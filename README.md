@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aditya Singh Chauhan
 - 👀 I’m interested in developing web applications
-- 🌱 I’m currently learning pern stack
+- 🌱 I’m currently learning full stack development from IIT Roorkee affiliated Great Learning Course taught by IIT Roorkee Professors
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Mail me on adityasubhashchauhan@gmail.com
 
